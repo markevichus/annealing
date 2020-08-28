@@ -1,0 +1,452 @@
+[{'id': 0, 'width': 809, 'height': 1864, 'area': 1507976}, {'id': 1, 'width': 1213, 'height': 1813, 'area': 2199169}, {'id': 2, 'width': 1647, 'height': 1477, 'area': 2432619}, {'id': 3, 'width': 1494, 'height': 1236, 'area': 1846584}, {'id': 4, 'width': 1404, 'height': 614, 'area': 862056}, {'id': 5, 'width': 933, 'height': 1355, 'area': 1264215}, {'id': 6, 'width': 468, 'height': 613, 'area': 286884}, {'id': 7, 'width': 1751, 'height': 1896, 'area': 3319896}, {'id': 8, 'width': 425, 'height': 1252, 'area': 532100}, {'id': 9, 'width': 913, 'height': 1941, 'area': 1772133}, {'id': 10, 'width': 1133, 'height': 1727, 'area': 1956691}, {'id': 11, 'width': 1086, 'height': 1861, 'area': 2021046}, {'id': 12, 'width': 961, 'height': 1772, 'area': 1702892}, {'id': 13, 'width': 1040, 'height': 921, 'area': 957840}, {'id': 14, 'width': 1637, 'height': 1807, 'area': 2958059}, {'id': 15, 'width': 631, 'height': 1648, 'area': 1039888}, {'id': 16, 'width': 1968, 'height': 780, 'area': 1535040}, {'id': 17, 'width': 1566, 'height': 1757, 'area': 2751462}, {'id': 18, 'width': 472, 'height': 507, 'area': 239304}, {'id': 19, 'width': 1628, 'height': 1123, 'area': 1828244}, {'id': 20, 'width': 1529, 'height': 481, 'area': 735449}, {'id': 21, 'width': 1013, 'height': 792, 'area': 802296}, {'id': 22, 'width': 1970, 'height': 447, 'area': 880590}, {'id': 23, 'width': 873, 'height': 871, 'area': 760383}, {'id': 24, 'width': 1880, 'height': 673, 'area': 1265240}, {'id': 25, 'width': 1157, 'height': 432, 'area': 499824}, {'id': 26, 'width': 1736, 'height': 921, 'area': 1598856}, {'id': 27, 'width': 1453, 'height': 1218, 'area': 1769754}, {'id': 28, 'width': 505, 'height': 1587, 'area': 801435}, {'id': 29, 'width': 1988, 'height': 1159, 'area': 2304092}, {'id': 30, 'width': 618, 'height': 1547, 'area': 956046}, {'id': 31, 'width': 1216, 'height': 706, 'area': 858496}, {'id': 32, 'width': 897, 'height': 909, 'area': 815373}, {'id': 33, 'width': 1036, 'height': 618, 'area': 640248}, {'id': 34, 'width': 1725, 'height': 692, 'area': 1193700}, {'id': 35, 'width': 974, 'height': 1089, 'area': 1060686}, {'id': 36, 'width': 624, 'height': 1124, 'area': 701376}, {'id': 37, 'width': 1834, 'height': 1042, 'area': 1911028}, {'id': 38, 'width': 1983, 'height': 1999, 'area': 3964017}, {'id': 39, 'width': 790, 'height': 849, 'area': 670710}, {'id': 40, 'width': 1651, 'height': 1097, 'area': 1811147}, {'id': 41, 'width': 1077, 'height': 1922, 'area': 2069994}, {'id': 42, 'width': 493, 'height': 1729, 'area': 852397}, {'id': 43, 'width': 1741, 'height': 1776, 'area': 3092016}, {'id': 44, 'width': 1104, 'height': 1917, 'area': 2116368}, {'id': 45, 'width': 777, 'height': 848, 'area': 658896}, {'id': 46, 'width': 931, 'height': 677, 'area': 630287}, {'id': 47, 'width': 1295, 'height': 648, 'area': 839160}, {'id': 48, 'width': 1749, 'height': 1596, 'area': 2791404}, {'id': 49, 'width': 1822, 'height': 1340, 'area': 2441480}, {'id': 50, 'width': 1349, 'height': 1637, 'area': 2208313}, {'id': 51, 'width': 426, 'height': 1489, 'area': 634314}, {'id': 52, 'width': 1183, 'height': 583, 'area': 689689}, {'id': 53, 'width': 684, 'height': 609, 'area': 416556}, {'id': 54, 'width': 527, 'height': 427, 'area': 225029}, {'id': 55, 'width': 1521, 'height': 607, 'area': 923247}, {'id': 56, 'width': 876, 'height': 1798, 'area': 1575048}, {'id': 57, 'width': 1258, 'height': 1837, 'area': 2310946}, {'id': 58, 'width': 1811, 'height': 642, 'area': 1162662}, {'id': 59, 'width': 404, 'height': 1768, 'area': 714272}]
+{'id': 0, 'width': 809, 'height': 1864, 'area': 1507976}
+{'id': 1, 'width': 1213, 'height': 1813, 'area': 2199169}
+{'id': 2, 'width': 1647, 'height': 1477, 'area': 2432619}
+{'id': 3, 'width': 1494, 'height': 1236, 'area': 1846584}
+{'id': 4, 'width': 1404, 'height': 614, 'area': 862056}
+{'id': 5, 'width': 933, 'height': 1355, 'area': 1264215}
+{'id': 6, 'width': 468, 'height': 613, 'area': 286884}
+{'id': 7, 'width': 1751, 'height': 1896, 'area': 3319896}
+{'id': 8, 'width': 425, 'height': 1252, 'area': 532100}
+{'id': 9, 'width': 913, 'height': 1941, 'area': 1772133}
+{'id': 10, 'width': 1133, 'height': 1727, 'area': 1956691}
+{'id': 11, 'width': 1086, 'height': 1861, 'area': 2021046}
+{'id': 12, 'width': 961, 'height': 1772, 'area': 1702892}
+{'id': 13, 'width': 1040, 'height': 921, 'area': 957840}
+{'id': 14, 'width': 1637, 'height': 1807, 'area': 2958059}
+{'id': 15, 'width': 631, 'height': 1648, 'area': 1039888}
+{'id': 16, 'width': 1968, 'height': 780, 'area': 1535040}
+{'id': 17, 'width': 1566, 'height': 1757, 'area': 2751462}
+{'id': 18, 'width': 472, 'height': 507, 'area': 239304}
+{'id': 19, 'width': 1628, 'height': 1123, 'area': 1828244}
+{'id': 20, 'width': 1529, 'height': 481, 'area': 735449}
+{'id': 21, 'width': 1013, 'height': 792, 'area': 802296}
+{'id': 22, 'width': 1970, 'height': 447, 'area': 880590}
+{'id': 23, 'width': 873, 'height': 871, 'area': 760383}
+{'id': 24, 'width': 1880, 'height': 673, 'area': 1265240}
+{'id': 25, 'width': 1157, 'height': 432, 'area': 499824}
+{'id': 26, 'width': 1736, 'height': 921, 'area': 1598856}
+{'id': 27, 'width': 1453, 'height': 1218, 'area': 1769754}
+{'id': 28, 'width': 505, 'height': 1587, 'area': 801435}
+{'id': 29, 'width': 1988, 'height': 1159, 'area': 2304092}
+{'id': 30, 'width': 618, 'height': 1547, 'area': 956046}
+{'id': 31, 'width': 1216, 'height': 706, 'area': 858496}
+{'id': 32, 'width': 897, 'height': 909, 'area': 815373}
+{'id': 33, 'width': 1036, 'height': 618, 'area': 640248}
+{'id': 34, 'width': 1725, 'height': 692, 'area': 1193700}
+{'id': 35, 'width': 974, 'height': 1089, 'area': 1060686}
+{'id': 36, 'width': 624, 'height': 1124, 'area': 701376}
+{'id': 37, 'width': 1834, 'height': 1042, 'area': 1911028}
+{'id': 38, 'width': 1983, 'height': 1999, 'area': 3964017}
+{'id': 39, 'width': 790, 'height': 849, 'area': 670710}
+{'id': 40, 'width': 1651, 'height': 1097, 'area': 1811147}
+{'id': 41, 'width': 1077, 'height': 1922, 'area': 2069994}
+{'id': 42, 'width': 493, 'height': 1729, 'area': 852397}
+{'id': 43, 'width': 1741, 'height': 1776, 'area': 3092016}
+{'id': 44, 'width': 1104, 'height': 1917, 'area': 2116368}
+{'id': 45, 'width': 777, 'height': 848, 'area': 658896}
+{'id': 46, 'width': 931, 'height': 677, 'area': 630287}
+{'id': 47, 'width': 1295, 'height': 648, 'area': 839160}
+{'id': 48, 'width': 1749, 'height': 1596, 'area': 2791404}
+{'id': 49, 'width': 1822, 'height': 1340, 'area': 2441480}
+{'id': 50, 'width': 1349, 'height': 1637, 'area': 2208313}
+{'id': 51, 'width': 426, 'height': 1489, 'area': 634314}
+{'id': 52, 'width': 1183, 'height': 583, 'area': 689689}
+{'id': 53, 'width': 684, 'height': 609, 'area': 416556}
+{'id': 54, 'width': 527, 'height': 427, 'area': 225029}
+{'id': 55, 'width': 1521, 'height': 607, 'area': 923247}
+{'id': 56, 'width': 876, 'height': 1798, 'area': 1575048}
+{'id': 57, 'width': 1258, 'height': 1837, 'area': 2310946}
+{'id': 58, 'width': 1811, 'height': 642, 'area': 1162662}
+{'id': 59, 'width': 404, 'height': 1768, 'area': 714272}
+calculate_state_energy
+next cycle. Edges:
+{'x': 0, 'y': 6000, 'height': 6000}
+free_from_right: 3400, width: 809
+Found parent: {'x': 0, 'y': 6000, 'height': 6000}
+Appending: {'x': 809, 'y': 1864, 'width': 809, 'height': 1864, 'id': 0}
+Fitting: {'x': 0, 'y': 6000, 'height': 6000}
+next cycle. Edges:
+{'y': 1864, 'height': 1864, 'x': 809}
+{'x': 0, 'y': 6000, 'height': 4136}
+free_from_right: 2591, width: 1213
+Found parent: {'y': 1864, 'height': 1864, 'x': 809}
+Appending: {'x': 2022, 'y': 1813, 'width': 1213, 'height': 1813, 'id': 1}
+Fitting: {'y': 1864, 'height': 1864, 'x': 809}
+next cycle. Edges:
+{'y': 1813, 'height': 1813, 'x': 2022}
+{'y': 1864, 'height': 51, 'x': 809}
+{'x': 0, 'y': 6000, 'height': 4136}
+free_from_right: 1378, width: 1647
+free_from_right: 2591, width: 1647
+Found parent: {'y': 1864, 'height': 51, 'x': 809}
+Appending: {'x': 2456, 'y': 3290, 'width': 1647, 'height': 1477, 'id': 2}
+Removing {'y': 1813, 'height': 1813, 'x': 2022}
+Removing {'y': 1864, 'height': 51, 'x': 809}
+Fitting: {'x': 0, 'y': 6000, 'height': 4136}
+next cycle. Edges:
+{'y': 3290, 'height': 1477, 'x': 2456}
+{'x': 0, 'y': 6000, 'height': 2710}
+free_from_right: 944, width: 1494
+free_from_right: 3400, width: 1494
+Found parent: {'x': 0, 'y': 6000, 'height': 2710}
+Appending: {'x': 1494, 'y': 4526, 'width': 1494, 'height': 1236, 'id': 3}
+Fitting: {'y': 3290, 'height': 1477, 'x': 2456}
+Fitting: {'x': 0, 'y': 6000, 'height': 2710}
+next cycle. Edges:
+{'y': 3290, 'height': -1236, 'x': 2456}
+{'y': 4526, 'height': 1236, 'x': 1494}
+{'x': 0, 'y': 6000, 'height': 1474}
+free_from_right: 944, width: 1404
+free_from_right: 1906, width: 1404
+Found parent: {'y': 4526, 'height': 1236, 'x': 1494}
+Appending: {'x': 2898, 'y': 3904, 'width': 1404, 'height': 614, 'id': 4}
+Removing {'y': 3290, 'height': -1236, 'x': 2456}
+Fitting: {'y': 4526, 'height': 1236, 'x': 1494}
+next cycle. Edges:
+{'y': 3904, 'height': 614, 'x': 2898}
+{'y': 4526, 'height': 622, 'x': 1494}
+{'x': 0, 'y': 6000, 'height': 1474}
+free_from_right: 502, width: 933
+free_from_right: 1906, width: 933
+Found parent: {'y': 4526, 'height': 622, 'x': 1494}
+Appending: {'x': 2427, 'y': 5259, 'width': 933, 'height': 1355, 'id': 5}
+Removing {'y': 4526, 'height': 622, 'x': 1494}
+Fitting: {'y': 3904, 'height': 614, 'x': 2898}
+Fitting: {'x': 0, 'y': 6000, 'height': 1474}
+next cycle. Edges:
+{'y': 3904, 'height': -1355, 'x': 2898}
+{'y': 5259, 'height': 1355, 'x': 2427}
+{'x': 0, 'y': 6000, 'height': 741}
+free_from_right: 502, width: 468
+Found parent: {'y': 3904, 'height': -1355, 'x': 2898}
+Appending: {'x': 3366, 'y': 5872, 'width': 468, 'height': 613, 'id': 6}
+Removing {'y': 3904, 'height': -1355, 'x': 2898}
+Removing {'y': 5259, 'height': 1355, 'x': 2427}
+Fitting: {'x': 0, 'y': 6000, 'height': 741}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1751
+free_from_right: 3400, width: 1751
+Not found. Drop rectangle: {'id': 7, 'width': 1751, 'height': 1896, 'area': 3319896}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 425
+free_from_right: 3400, width: 425
+Not found. Drop rectangle: {'id': 8, 'width': 425, 'height': 1252, 'area': 532100}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 913
+free_from_right: 3400, width: 913
+Not found. Drop rectangle: {'id': 9, 'width': 913, 'height': 1941, 'area': 1772133}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1133
+free_from_right: 3400, width: 1133
+Not found. Drop rectangle: {'id': 10, 'width': 1133, 'height': 1727, 'area': 1956691}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1086
+free_from_right: 3400, width: 1086
+Not found. Drop rectangle: {'id': 11, 'width': 1086, 'height': 1861, 'area': 2021046}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 961
+free_from_right: 3400, width: 961
+Not found. Drop rectangle: {'id': 12, 'width': 961, 'height': 1772, 'area': 1702892}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1040
+free_from_right: 3400, width: 1040
+Not found. Drop rectangle: {'id': 13, 'width': 1040, 'height': 921, 'area': 957840}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1637
+free_from_right: 3400, width: 1637
+Not found. Drop rectangle: {'id': 14, 'width': 1637, 'height': 1807, 'area': 2958059}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 631
+free_from_right: 3400, width: 631
+Not found. Drop rectangle: {'id': 15, 'width': 631, 'height': 1648, 'area': 1039888}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1968
+free_from_right: 3400, width: 1968
+Not found. Drop rectangle: {'id': 16, 'width': 1968, 'height': 780, 'area': 1535040}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1566
+free_from_right: 3400, width: 1566
+Not found. Drop rectangle: {'id': 17, 'width': 1566, 'height': 1757, 'area': 2751462}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 472
+free_from_right: 3400, width: 472
+Not found. Drop rectangle: {'id': 18, 'width': 472, 'height': 507, 'area': 239304}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1628
+free_from_right: 3400, width: 1628
+Not found. Drop rectangle: {'id': 19, 'width': 1628, 'height': 1123, 'area': 1828244}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1529
+free_from_right: 3400, width: 1529
+Not found. Drop rectangle: {'id': 20, 'width': 1529, 'height': 481, 'area': 735449}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1013
+free_from_right: 3400, width: 1013
+Not found. Drop rectangle: {'id': 21, 'width': 1013, 'height': 792, 'area': 802296}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1970
+free_from_right: 3400, width: 1970
+Not found. Drop rectangle: {'id': 22, 'width': 1970, 'height': 447, 'area': 880590}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 873
+free_from_right: 3400, width: 873
+Not found. Drop rectangle: {'id': 23, 'width': 873, 'height': 871, 'area': 760383}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1880
+free_from_right: 3400, width: 1880
+Not found. Drop rectangle: {'id': 24, 'width': 1880, 'height': 673, 'area': 1265240}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1157
+free_from_right: 3400, width: 1157
+Not found. Drop rectangle: {'id': 25, 'width': 1157, 'height': 432, 'area': 499824}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1736
+free_from_right: 3400, width: 1736
+Not found. Drop rectangle: {'id': 26, 'width': 1736, 'height': 921, 'area': 1598856}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1453
+free_from_right: 3400, width: 1453
+Not found. Drop rectangle: {'id': 27, 'width': 1453, 'height': 1218, 'area': 1769754}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 505
+free_from_right: 3400, width: 505
+Not found. Drop rectangle: {'id': 28, 'width': 505, 'height': 1587, 'area': 801435}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1988
+free_from_right: 3400, width: 1988
+Not found. Drop rectangle: {'id': 29, 'width': 1988, 'height': 1159, 'area': 2304092}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 618
+free_from_right: 3400, width: 618
+Not found. Drop rectangle: {'id': 30, 'width': 618, 'height': 1547, 'area': 956046}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1216
+free_from_right: 3400, width: 1216
+Not found. Drop rectangle: {'id': 31, 'width': 1216, 'height': 706, 'area': 858496}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 897
+free_from_right: 3400, width: 897
+Not found. Drop rectangle: {'id': 32, 'width': 897, 'height': 909, 'area': 815373}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1036
+free_from_right: 3400, width: 1036
+Not found. Drop rectangle: {'id': 33, 'width': 1036, 'height': 618, 'area': 640248}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1725
+free_from_right: 3400, width: 1725
+Not found. Drop rectangle: {'id': 34, 'width': 1725, 'height': 692, 'area': 1193700}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 974
+free_from_right: 3400, width: 974
+Not found. Drop rectangle: {'id': 35, 'width': 974, 'height': 1089, 'area': 1060686}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 624
+free_from_right: 3400, width: 624
+Not found. Drop rectangle: {'id': 36, 'width': 624, 'height': 1124, 'area': 701376}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1834
+free_from_right: 3400, width: 1834
+Not found. Drop rectangle: {'id': 37, 'width': 1834, 'height': 1042, 'area': 1911028}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1983
+free_from_right: 3400, width: 1983
+Not found. Drop rectangle: {'id': 38, 'width': 1983, 'height': 1999, 'area': 3964017}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 790
+free_from_right: 3400, width: 790
+Not found. Drop rectangle: {'id': 39, 'width': 790, 'height': 849, 'area': 670710}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1651
+free_from_right: 3400, width: 1651
+Not found. Drop rectangle: {'id': 40, 'width': 1651, 'height': 1097, 'area': 1811147}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1077
+free_from_right: 3400, width: 1077
+Not found. Drop rectangle: {'id': 41, 'width': 1077, 'height': 1922, 'area': 2069994}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 493
+free_from_right: 3400, width: 493
+Not found. Drop rectangle: {'id': 42, 'width': 493, 'height': 1729, 'area': 852397}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1741
+free_from_right: 3400, width: 1741
+Not found. Drop rectangle: {'id': 43, 'width': 1741, 'height': 1776, 'area': 3092016}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1104
+free_from_right: 3400, width: 1104
+Not found. Drop rectangle: {'id': 44, 'width': 1104, 'height': 1917, 'area': 2116368}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 777
+free_from_right: 3400, width: 777
+Not found. Drop rectangle: {'id': 45, 'width': 777, 'height': 848, 'area': 658896}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 931
+free_from_right: 3400, width: 931
+Not found. Drop rectangle: {'id': 46, 'width': 931, 'height': 677, 'area': 630287}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1295
+free_from_right: 3400, width: 1295
+Not found. Drop rectangle: {'id': 47, 'width': 1295, 'height': 648, 'area': 839160}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1749
+free_from_right: 3400, width: 1749
+Not found. Drop rectangle: {'id': 48, 'width': 1749, 'height': 1596, 'area': 2791404}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1822
+free_from_right: 3400, width: 1822
+Not found. Drop rectangle: {'id': 49, 'width': 1822, 'height': 1340, 'area': 2441480}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1349
+free_from_right: 3400, width: 1349
+Not found. Drop rectangle: {'id': 50, 'width': 1349, 'height': 1637, 'area': 2208313}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 426
+free_from_right: 3400, width: 426
+Not found. Drop rectangle: {'id': 51, 'width': 426, 'height': 1489, 'area': 634314}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1183
+free_from_right: 3400, width: 1183
+Not found. Drop rectangle: {'id': 52, 'width': 1183, 'height': 583, 'area': 689689}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 684
+free_from_right: 3400, width: 684
+Not found. Drop rectangle: {'id': 53, 'width': 684, 'height': 609, 'area': 416556}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 527
+free_from_right: 3400, width: 527
+Not found. Drop rectangle: {'id': 54, 'width': 527, 'height': 427, 'area': 225029}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1521
+free_from_right: 3400, width: 1521
+Not found. Drop rectangle: {'id': 55, 'width': 1521, 'height': 607, 'area': 923247}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 876
+free_from_right: 3400, width: 876
+Not found. Drop rectangle: {'id': 56, 'width': 876, 'height': 1798, 'area': 1575048}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1258
+free_from_right: 3400, width: 1258
+Not found. Drop rectangle: {'id': 57, 'width': 1258, 'height': 1837, 'area': 2310946}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 1811
+free_from_right: 3400, width: 1811
+Not found. Drop rectangle: {'id': 58, 'width': 1811, 'height': 642, 'area': 1162662}
+next cycle. Edges:
+{'y': 5872, 'height': 613, 'x': 3366}
+{'x': 0, 'y': 6000, 'height': 128}
+free_from_right: 34, width: 404
+free_from_right: 3400, width: 404
+Not found. Drop rectangle: {'id': 59, 'width': 404, 'height': 1768, 'area': 714272}
+stop
+{'x': 809, 'y': 1864, 'width': 809, 'height': 1864, 'id': 0}
+{'x': 2022, 'y': 1813, 'width': 1213, 'height': 1813, 'id': 1}
+{'x': 2456, 'y': 3290, 'width': 1647, 'height': 1477, 'id': 2}
+{'x': 1494, 'y': 4526, 'width': 1494, 'height': 1236, 'id': 3}
+{'x': 2898, 'y': 3904, 'width': 1404, 'height': 614, 'id': 4}
+{'x': 2427, 'y': 5259, 'width': 933, 'height': 1355, 'id': 5}
+{'x': 3366, 'y': 5872, 'width': 468, 'height': 613, 'id': 6}
